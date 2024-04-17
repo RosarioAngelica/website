@@ -6,15 +6,15 @@
 
 #header {
     background-color: #ff7e5f; 
-    color: white;
+    color: black;
     text-align: center;
     padding: 20px 0;
     box-shadow: 4px 5px 15px black;
 }
 
-#interest-hobbies, #myworks, #testimonials {
+#interest_hobbies, #my_works, #testimonials {
     background-color: #ffac81; 
-    color: white;
+    color: black;
     padding: 10px;
     margin-bottom: 20px;
     text-align: center;
@@ -24,7 +24,7 @@
 
 .title {
     background-color: #ffac81;
-    color: white;
+    color: black;
     text-align: center;
     box-shadow: 4px 5px 15px black;
 }
@@ -42,7 +42,7 @@
 }
 
 .ange {
-    width: calc(33.33% - 20px); /* Set width for each image container */
+    width: calc(33.33% - 20px);
     margin: 10px;
     text-align: center;
 }
